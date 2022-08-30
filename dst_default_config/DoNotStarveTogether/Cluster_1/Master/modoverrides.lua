@@ -10,7 +10,5 @@ return {
       SHOWPLAYERSOPTIONS=2 
     },
     enabled=true 
-  },["workshop-2115943953"]={ enabled=true },
-  ["workshop-398109522"]={ enabled=true },
-  ["workshop-2565528744"]={ enabled=true }
+  },["workshop-2115943953"]={ enabled=true }
 }
